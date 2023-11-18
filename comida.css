@@ -1,0 +1,117 @@
+#logo {
+    width: 30%;
+    display: inline-block;
+}
+header {
+    background: #00074e;
+    padding: 20px 0;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    border-bottom: 8px solid red;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+.titulo-principal {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 30px 0;
+}
+.comida-titulo {
+    font-size: 40px;
+    margin: 80px 25px 0;
+    font-weight: bold;
+    text-align: center;
+}
+.introdução {
+    width: 95%;
+    text-align: center;
+    font-size: 35px;
+    margin: 30px 27px 0;
+}
+div li {
+    margin: 50px 10px 0;
+    font-size: 30px;
+    text-align: center;
+}
+div ul {
+    margin: 0 0 100px;
+}
+em strong {
+    font-weight: bold;
+}
+.banku {
+    width: 80%;
+    margin: 25px 90px 0;
+}
+.jollof {
+    width: 65%;
+    margin: 25px 175px 0;
+}
+.waakye {
+    width: 60%;
+    margin: 25px 195px 0;
+}
+.fufu {
+    width: 50%;
+    margin: 25px 250px 0;
+}
+.kenkey {
+    width: 50%;
+    margin: 25px 250px 0;
+}
+.red {
+    width: 55%;
+    margin: 25px 230px 0;
+}
+.kelewele {
+    width: 65%;
+    margin: 25px 180px 0;
+}
+.zaafi {
+    width: 45%;
+    margin: 25px 270px 0;
+}
+.shito {
+    width: 45%;
+    margin: 25px 280px 0;
+}
+.sobolo {
+    width: 55%;
+    margin: 25px 230px 0;
+}
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 100px 0;
+}
+.logo-gana {
+    width: 10%;
+    margin: 10px 0 0; 
+}
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}

@@ -1,0 +1,131 @@
+#logo {
+    width: 30%;
+    display: inline-block;
+}
+header {
+    background: #00074e;
+    padding: 20px 0;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    border-bottom: 8px solid red;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+    text-align: right;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+.link-interno {
+    margin: 100px 0 0;
+}
+.titulo-principal {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 30px 0;
+}
+.titulo-cultura {
+    font-size: 45px;
+    margin: 80px 25px 0;
+    font-weight: bold;
+    text-align: center;
+}
+.cultura {
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+}
+.cultura p {
+    margin: 30px 53px 50px;
+}
+.ashanti {
+    margin: 25px 0 0;
+}
+em strong {
+    font-weight: bold;
+}
+.história-ashantis {
+    font-size: 35px;
+    margin: 50px 25px 0;
+    font-weight: bold;
+}
+#reino-ashanti {
+    font-size: 35px;
+    margin: 50px 25px 0;
+    font-weight: bold;
+}
+.ashanti-imagem{
+    margin: 25px 0 0;
+}
+#arte-cultura {
+    font-size: 35px;
+    margin: 50px 0 0;
+    font-weight: bold;
+}
+.arte {
+    margin: 25px 5px 50px;
+    display: inline-block;
+    width: 40%;
+}
+.tecelagem {
+    display: inline-block;
+    margin: 25px 5px 50px;
+    width: 50%;
+}
+#religião {
+    font-size: 35px;
+    margin: 50px 0 0;
+    font-weight: bold;
+}
+.crença {
+    display: block;
+    width: 70%;
+    margin: 25px 145px 50px;
+}
+#tradição {
+    font-size: 35px;
+    margin: 50px 0 0;
+    font-weight: bold;
+    display: block;
+}
+.festival {
+    margin: 25px 0 0;
+    width: 75%;
+}
+.legado {
+    font-size: 35px;
+    margin: 50px 0 0;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 100px 0;
+}
+.logo-gana {
+    width: 10%;
+    margin: 10px 0 0; 
+}
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}

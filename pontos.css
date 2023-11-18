@@ -1,0 +1,203 @@
+#logo {
+    width: 30%;
+    display: inline-block;
+}
+header {
+    background: #00074e;
+    padding: 20px 0;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    border-bottom: 8px solid red;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+.titulo-principal {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 30px 0;
+}
+.oquefazer {
+    font-size: 45px;
+    margin: 80px 25px 0;
+    font-weight: bold;
+    text-align: center;
+}
+.pontos {
+    text-align: left;
+}
+.conheçahistória {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.pontos p {
+    margin: 20px 33px 0;
+    font-size: 30px;
+}
+em strong {
+    font-weight: bold;
+}
+.elminaimagem {
+    width: 44%;
+    margin: 20px 35px 0;
+    display: inline-block;
+}
+.capeimagem {
+    width: 41%;
+    display: inline-block;
+    float: right;
+    margin: 20px 35px 0;
+}
+.sãojorge {
+    width: 90%;
+    color: #757575;
+    display: inline-block;
+}
+.kakum {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.kakum1 {
+    width: 40%;
+    margin: 20px 35px 0;
+    display: inline-block;
+}
+.kakum2 {
+    width: 45%;
+    margin: 20px 35px 0;
+    display: inline-block;
+    float: right;
+}
+.ashanti {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.ashantiimagem1 {
+    width: 42%;
+    margin: 20px 39px 80px;
+    display: inline-block;
+}
+.ashantiimagem2 {
+    width: 42%;
+    margin: 20px 39px 80px;
+    display: inline-block;
+    float: right;
+}
+.mole {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.elefante {
+    width: 42%;
+    margin: 20px 35px 80px;
+    display: inline-block;
+}
+.bufalo {
+    width: 42%;
+    margin: 20px 35px 80px;
+    display: inline-block;
+    float: right;
+}
+.accra {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.accra1 {
+    width: 38%;
+    margin: 20px 41px 80px;
+    display: inline-block;
+}
+.accra2 {
+    width: 46%;
+    margin: 20px 37px 80px;
+    display: inline-block;
+    float: right;
+}
+.bia {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.natureza {
+    width: 44%;
+    margin: 20px 39px 80px;
+    display: inline-block;
+}
+.antílope {
+    width: 37%;
+    margin: 20px 54px 80px;
+    display: inline-block;
+    float: right;
+}
+.capecoast {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.cape {
+    width: 41%;
+    margin: 20px 38px 80px;
+    display: inline-block;
+}
+.praia {
+    width: 44%;
+    margin: 20px 35px 80px;
+    display: inline-block;
+    float: right;
+}
+.takoradi {
+    font-weight: bold;
+    margin: 80px 25px 0;
+    font-size: 35px;
+}
+.takoimagem {
+    width: 45%;
+    margin: 20px 35px 80px;
+    display: inline-block;
+}
+.radiimagem {
+    width: 40%;
+    margin: 20px 35px 80px;
+    display: inline-block;
+    float: right;
+}
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 100px 0;
+}
+.logo-gana {
+    width: 10%;
+    margin: 10px 0 0; 
+}
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
